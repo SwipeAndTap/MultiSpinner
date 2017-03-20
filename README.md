@@ -100,7 +100,7 @@ Then declare MultiSpinner within your dependencies:
 ```groovy
 dependencies {
   ...
-  compile('com.thomashaertel:multispinner:0.1.0@aar') {
+  compile('com.thomashaertel:multispinner:0.1.1@aar') {
   }
   ...
 }
